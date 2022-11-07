@@ -32,7 +32,7 @@
 - [x] 9.Strings and File I/O
 - [ ] 10.States and State Machines
 - [x] 11.Pointers, Arrays, Multidimensional Arrays
-- [ ] 12.Compilation and Makefiles
+- [x] 12.Compilation and Makefiles
 - [ ] 13.struct
 - [ ] 14.Dynamic Memory Allocation
 
