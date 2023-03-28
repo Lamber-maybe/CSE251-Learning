@@ -15,5 +15,6 @@ int main(){
     scanf("%f", &I);
 
     F = 1 / (2 * M_PI * sqrt((C * 1e-6) * (I * 1e-3)));
+
     printf("Resonant Frequency is %.3f", F);
 }
